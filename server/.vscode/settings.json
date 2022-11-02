@@ -1,0 +1,9 @@
+{
+    "cSpell.words": [
+        "Fastify"
+    ],
+
+    "[prisma]": {
+        "editor.formatOnSave": true,
+    }
+}
