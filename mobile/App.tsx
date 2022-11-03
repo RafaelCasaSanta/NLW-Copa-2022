@@ -6,7 +6,7 @@ import {useFonts, Roboto_400Regular, Roboto_500Medium, Roboto_700Bold} from '@ex
 import { THEME } from './src/styles/theme';
 
 import { Loading } from './src/components/loading';
-import { SignIn } from './src/screens/SignIn';
+import { SignIn}  from './src/screens/SignIn';
 
 
 export default function App() {
